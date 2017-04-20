@@ -1,0 +1,7 @@
+- **PolicyBased:** PolicyBased VPN's eerder in het klassieke implementatiemodel statische routering gateways genoemd. VPN-verbindingen op basis van beleid coderen en directe pakketten door het IPSec-tunnels op basis van het IPSec-beleid dat is geconfigureerd met de combinaties van adresprefixen tussen uw netwerk op gebouwen en de Azure-VNet. Het beleid (of het verkeer selector) wordt meestal gedefinieerd als een toegangslijst in de configuratie van het VPN-apparaat. De waarde van een PolicyBased VPN-type is *PolicyBased*. Wanneer u een VPN PolicyBased, houd u rekening met de volgende beperkingen:
+
+    - PolicyBased VPN-verbindingen kan **alleen** worden gebruikt op de standaard-gateway SKU. Deze VPN-type is niet compatibel met andere gateway-SKU's.
+    - U kunt slechts 1 tunnel hebben bij het gebruik van een VPN PolicyBased.
+    - U kunt alleen PolicyBased VPN-verbindingen gebruiken voor verbindingen S2S en alleen voor bepaalde configuraties. De meeste VPN-Gateway configuraties vereisen een VPN RouteBased.
+
+- **RouteBased**: RouteBased VPN's waren voorheen dynamische routering gateways in de klassieke implementatiemodel. RouteBased VPN's gebruiken "routes" in de IP-doorsturen of routeringstabel pakketten direct in de bijbehorende tunnel-interfaces. De tunnelinterfaces vervolgens coderen of decoderen van de pakketten en naar de tunnels. Het beleid (of het verkeer selector) voor RouteBased VPN-verbindingen zijn geconfigureerd als een toepassing te (of jokertekens). De waarde van een RouteBased VPN-type is *RouteBased*.

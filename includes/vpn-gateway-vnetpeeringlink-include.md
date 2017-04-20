@@ -1,0 +1,1 @@
+Het is ook mogelijk om te verbinden met behulp van een VPN-gateway VNets. Als uw VNets in dezelfde regio, kunt u overwegen deze te verbinden met behulp van peering VNet. Zie voor meer informatie het artikel [VNet peering](../articles/virtual-network/virtual-network-peering-overview.md) .

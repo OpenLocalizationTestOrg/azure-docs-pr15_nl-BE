@@ -1,0 +1,1 @@
+VNet Peering is een mechanisme voor het verbinden van twee virtuele netwerken in dezelfde regio via de Azure backbone-netwerk. Zodra de peered, lijkt de twee virtuele netwerken één virtueel netwerk voor alle verbindingen. Lees het [Overzicht Peering VNet](../articles/virtual-network/virtual-network-peering-overview.md) als u niet bekend met Peering VNet bent.

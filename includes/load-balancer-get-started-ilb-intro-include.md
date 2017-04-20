@@ -1,0 +1,3 @@
+Een interne Azure taakverdeling (ILB) biedt voor Netwerktaakverdeling tussen de virtuele machines die zich in een cloud-service of een virtueel netwerk met een regionale bereik bevinden.
+
+Zie voor meer informatie over het gebruik en de configuratie van de virtuele netwerken met een bereik van regionale [Regionale virtuele netwerken](../articles/virtual-network/virtual-networks-migrate-to-regional-vnet.md). Bestaande virtuele netwerken die zijn geconfigureerd voor een groep affiniteit niet ILB gebruiken.

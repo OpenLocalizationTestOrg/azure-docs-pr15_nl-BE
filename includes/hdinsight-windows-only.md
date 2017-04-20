@@ -1,0 +1,1 @@
+> [AZURE.NOTE] De informatie in dit document is alleen van toepassing op Windows gebaseerde HDInsight clusters.
