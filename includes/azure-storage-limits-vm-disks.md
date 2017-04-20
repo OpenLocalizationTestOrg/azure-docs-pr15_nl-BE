@@ -1,0 +1,7 @@
+Een Azure virtuele machine ondersteunt een aantal gegevensschijven koppelen. U wilt beperken het aantal zeer gebruikte schijven die zijn gekoppeld aan de virtuele machine om te voorkomen dat mogelijke beperking voor optimale prestaties. Als alle schijven worden niet sterk wordt gebruikt op hetzelfde moment, kan de account opslag een groter aantal schijven ondersteunen.
+
+- **Voor standaardopslag rekeningen:** Een standaard opslag-account heeft een maximale totale verzoek tarief van 20.000 IOP's. De totale IOP's over alle schijven in een account standaardopslag virtuele machine moet deze limiet niet overschrijdt.
+
+    U kunt het aantal zeer gebruikte schijven worden ondersteund door een standaard één opslag account op basis van de aanvraaglimiet ongeveer berekenen. Bijvoorbeeld, voor een eenvoudige Tier VM, het maximum aantal zeer gebruikte schijven is over 66 (20.000/300 IOP's per schijf), en voor een standaard-Tier VM, is ongeveer 40 (20.000/500 IOP's per schijf), zoals wordt weergegeven in de onderstaande tabel. 
+ 
+- **Voor premium opslag rekeningen:** Een opslag premium account is de maximale totale doorvoersnelheid van 50 GB/s. De totale doorvoer over alle schijven VM moet deze limiet niet overschrijdt.

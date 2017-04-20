@@ -1,0 +1,1 @@
+> [AZURE.IMPORTANT] Dit is een functie van **Azure CDN premie van Verizon**en is niet beschikbaar in **Azure CDN** standaardproducten.  Voor een vergelijking van functies van CDN overzicht [Azure CDN](cdn-overview.md#azure-cdn-features). 

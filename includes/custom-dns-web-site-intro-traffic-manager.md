@@ -1,0 +1,1 @@
+Als u een Manager Microsoft Azure verkeer saldo verkeer naar uw Website Azure laden, die website kan worden bekeken met de ** \*. trafficmanager.net** domeinnaam toegewezen door Azure. U kunt ook een aangepaste domeinnaam, bijvoorbeeld www.contoso.com, koppelen aan uw website zodat u een meer herkenbare domeinnaam voor uw gebruikers.

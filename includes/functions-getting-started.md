@@ -1,0 +1,3 @@
+Azure functies is een gebeurtenisgestuurde compute-on-demand-ervaring die zich uitstrekt van de bestaande Azure toepassingsplatform met mogelijkheden voor de uitvoering van code die worden gestart door gebeurtenissen die in andere Azure services, SaaS-producten en systemen op locatie. Toepassingen geschaald op basis van de vraag met Azure functies, en u betaalt alleen voor de resources die u wilt gebruiken. Azure functies biedt een intuïtieve, op browser gebaseerde gebruikersinterface zodat u kunt maken, gepland of stukken code geïmplementeerd in een aantal verschillende programmeertalen geactiveerd. 
+
+Deze Introductie video ziet u hoe een functie app maken, wijzigen van de code, alsmede de interactie met de triggers en bindingen.

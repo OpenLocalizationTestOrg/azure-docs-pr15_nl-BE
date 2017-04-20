@@ -1,0 +1,1 @@
+Als u nog geen profiel beheer van verkeer, maken gebruik van de informatie in [een verkeer Manager profiel met behulp van snelle invoer maken](../articles/traffic-manager/traffic-manager-manage-profiles.md) een te maken. Opmerking de **. trafficmanager.net** -naam die is gekoppeld aan uw serviceprofiel verkeer, zoals dit later door de volgende stappen in dit document wordt.

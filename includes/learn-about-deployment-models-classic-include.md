@@ -1,0 +1,1 @@
+> [AZURE.IMPORTANT] Azure heeft twee verschillende modellen voor het maken en werken met resources: [Resource Manager en klassiek](../articles/resource-manager-deployment-model.md).  In dit artikel beschreven hoe u met de klassieke implementatiemodel. Microsoft raadt de meeste nieuwe implementaties gebruiken het model Resource Manager.

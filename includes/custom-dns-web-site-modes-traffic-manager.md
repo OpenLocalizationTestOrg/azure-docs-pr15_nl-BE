@@ -1,0 +1,3 @@
+Een aangepaste domeinnaam instellen op een web app in Azure App-Service die wordt verdeeld door verkeer Manager is alleen beschikbaar voor **Standard** -modus websites. Voordat u een web app van de gratis App plan modus naar de modus gedeeld, Basic of Standard, moet u eerst bestedingslimiet caps verwijderen in plaats voor uw abonnement App-Service. 
+
+Zie voor meer informatie over de modi App Service plan, met inbegrip van de modus van uw site, het [aanpassen van websites](../articles/app-service-web/web-sites-scale.md).

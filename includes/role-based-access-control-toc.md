@@ -1,0 +1,4 @@
+- [Toegangsbeheer op basis van rollen](../articles/active-directory/role-based-access-control-configure.md)
+- [Toegang met behulp van Azure Powershell beheren](../articles/active-directory/role-based-access-control-manage-access-powershell.md)
+- [Toegang met behulp van de CLI Azure beheren](../articles/active-directory/role-based-access-control-manage-access-azure-cli.md)
+- [RBAC-rollen ingebouwd](../articles/active-directory/role-based-access-built-in-roles.md)
