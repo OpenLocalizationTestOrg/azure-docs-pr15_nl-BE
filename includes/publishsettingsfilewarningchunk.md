@@ -1,0 +1,2 @@
+> [AZURE.NOTE]
+> Het bestand .publishsettings bevat de referenties (ongecodeerd) die worden gebruikt voor het beheren van uw abonnementen Azure en services. Het wordt aangeraden voor dit bestand is tijdelijk buiten de mappen van uw bron (bijvoorbeeld in de map Libraries\Documents) opslaan en verwijderen nadat het importeren is voltooid. Een kwaadwillende gebruiker die toegang tot het .publishsettings-bestand krijgt kunt bewerken, maken en verwijderen van uw Azure services.

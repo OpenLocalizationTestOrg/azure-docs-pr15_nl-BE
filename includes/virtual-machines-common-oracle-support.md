@@ -1,0 +1,1 @@
+> [AZURE.IMPORTANT]  Deze inhoud is verouderd en wordt niet meer onderhouden.  Zie voor een overzicht van de ondersteuning van Oracle op Azure [dit gepubliceerd ondersteuningsverklaring.](http://www.oracle.com/technetwork/topics/cloud/faq-1963009.html#support)
